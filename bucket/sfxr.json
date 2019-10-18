@@ -1,0 +1,7 @@
+{
+    "homepage": "http://www.drpetter.se/project_sfxr.html",
+    "url": "http://www.drpetter.se/files/sfxr.zip",
+    "bin": "sfxr.exe",
+    "shortcuts": [["sfxr.exe", "sfxr"]],
+    "version": "1.0"
+}
