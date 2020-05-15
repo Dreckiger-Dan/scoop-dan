@@ -9,7 +9,6 @@
 | App name **(Scoop name)**                                                     | Tested | Checkver | Autoupdate (Hash) |
 | ----------------------------------------------------------------------------- | :----: | :------: | :---------------: |
 | [sfxr](http://www.drpetter.se/project_sfxr.html)                              | ✔      | ⭕      | ⭕ (⭕)          |
-| [TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) | ✔      | ✔       | ✔ (❌)           |
 | [Tiled](https://www.mapeditor.org/)                                           | ✔      | ✔       | ✔ (❌)           |
 
 ### Legend
